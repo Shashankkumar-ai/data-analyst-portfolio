@@ -9,3 +9,8 @@ Projects
 - Created Pivot Tables for data summarization.
 - Built charts to visualize trends and comparisons.
 - Applied Excel data analysis techniques for reporting.
+
+2. Logical Function and Lookup Assignment
+- Applied IF, IFS, AND, OR and LOOKUP functions.
+- Performed conditional analysis on datasets.
+- Improved data accuracy using logical formulas.
