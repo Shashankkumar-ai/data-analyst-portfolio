@@ -1,4 +1,3 @@
-Data Analyst Portfolio
 Hi, I'm Shashank Kumar.
 This repository contains my Data Analytics projects completed using Excel, SQL, Python, Power BI, Tableau, Machine Learning and AI.
 
